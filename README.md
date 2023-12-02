@@ -10,3 +10,5 @@ Todo app using vue JS
 
 the link below leads to the live website
 	https://vuejs-to-do-application.netlify.app/
+
+*Some resources are from frontendmentor.io
