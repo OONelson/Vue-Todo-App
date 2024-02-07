@@ -1,14 +1,19 @@
-# Vue-Todo-App
-Todo app using vue JS
+# todo-app
 
-* After learning vue JS and building some couple of the courses projects, I decided to build a Todo App. The user should be able to:
-  1. Toggle light and dark modes
-  2. Input todos
-  3. Mark the completed Todos
-  4. Delete Todos
-  5. Search Todos
+## Project setup
+```
+npm install
+```
 
-the link below leads to the live website
-	https://vuejs-to-do-application.netlify.app/
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-*Some resources are from frontendmentor.io
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
